@@ -1,0 +1,33 @@
+nav{
+    /* display: inline-block; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3rem;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav li{
+    display: inline-block;
+}
+
+  .currentPage a{
+    color: lightslategray;
+}
+
+form :focus{
+    border-style:dotted;
+    border-width: 5px;
+    border-color: darkcyan;
+    font-size:20px;
+}
+
+nav a:hover{
+    color:white;
+    background-color: #2e90bd;
+}

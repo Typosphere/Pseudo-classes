@@ -1,0 +1,19 @@
+/* link */
+.bezoek {
+    font-family: "barlow", sans-serif;
+    font-size: 1.5rem;
+  }
+/*   
+  /* mouse over link */
+a:hover {
+  color: red;
+} */
+
+/* selected link */
+a:active {
+  color: #5CAFBC;
+}
+  /* :visited */
+a:visited {
+    color:rgb(209, 197, 33);
+}
